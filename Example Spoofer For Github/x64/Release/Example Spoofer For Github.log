@@ -1,0 +1,13 @@
+﻿  Loader.cpp
+C:\Users\1337\source\repos\Example Spoofer For Github\Example Spoofer For Github\Loader.cpp(94,68): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\1337\source\repos\Example Spoofer For Github\Example Spoofer For Github\Loader.cpp(349,9): warning C4551: function call missing argument list
+C:\Users\1337\source\repos\Example Spoofer For Github\Example Spoofer For Github\Loader.cpp(359,9): warning C4551: function call missing argument list
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Example Spoofer For Github.vcxproj -> C:\Users\1337\source\repos\Example Spoofer For Github\x64\Release\Example Spoofer For Github.exe
